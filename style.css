@@ -353,7 +353,7 @@ footer .column > a:hover{
     text-align: center;
 }
 
-@media (width < 900px){
+@media (width < 1200px){
     .nav-links{
         display: none;
     }
